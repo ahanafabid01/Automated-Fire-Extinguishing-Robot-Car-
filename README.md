@@ -6,6 +6,21 @@ Scope: This robot is made to be used in small places like homes, classrooms, or 
 Significance: This project is important because it shows how robots can make fire emergencies safer and easier to handle. Instead of risking people’s lives, the robot can find and put out fires quickly. It can also save money by stopping small fires from becoming big ones. This project inspires others to think about how robot
 s can make everyday life safer. For beginners, it’s a simple way to show how robots can solve real problems and make a difference.
 
+Components:
+⦁	Microcontroller: Arduino Uno
+⦁	Sensors:
+⦁	3 x Flame/Temperature Sensor
+
+⦁	Actuators:
+⦁	Wheels
+⦁	Servo Motor
+⦁	DC Motor
+⦁	Water Pump
+
+⦁	Body/Chassis: Transparent Car Chassis
+⦁	Additional Components: Motor Driver, Switch, Transistor, Capacitor, Register, Breadboard, Jumper Wires, Water Bottle, Batteries x 2. 3
+
+
 Functionality 1 : Flame Detection and Direction Tracking
 Overview: 
 The robot can detect flames in its surroundings using flame sensors. Once a flame is detected, it calculates the direction of the fire and adjusts its movement accordingly to head towards it.
